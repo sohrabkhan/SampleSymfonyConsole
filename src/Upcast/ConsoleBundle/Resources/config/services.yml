@@ -1,0 +1,8 @@
+services:
+#    console.example:
+#        class: Upcast\ConsoleBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
+#     upcast.my_command:
+#        class: Upcast\ConsoleBundle\Command\CsvCommand
+#        tags:
+#            -  { name: console.command }
