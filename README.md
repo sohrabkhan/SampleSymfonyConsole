@@ -2,9 +2,9 @@
 This application is built using the Symfony Framework Standard Edition
 
 **Why?**
-* * The job requirements are for Symfony
-* * It could have been done using Only Symfony/Console component but I chose Symfony Standard Edition for speed of development
-* * I would rather build a console application using Bash script
+* The job requirements are for Symfony
+* It could have been done using Only Symfony/Console component but I chose Symfony Standard Edition for speed of development
+* I would rather build a console application using Bash script
 
 ### Running the command: ###
 You can run the command from the root of the UpcastSocial App by running the following:
