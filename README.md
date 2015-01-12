@@ -1,4 +1,4 @@
-# UpcastSocial Console Application #
+# Sample Symfony Console Application #
 This application is built using the Symfony Framework Standard Edition
 
 **Why?**
